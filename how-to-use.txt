@@ -1,8 +1,8 @@
-Akila
-fdsdfgfdgdfg
-dfsdfsdfgdfgsdf
-dsfdsfdfdfs
-
+merged conflict
+merged conflict2
+merged conflict 5
+merged conflict 4
+merged conflict 9
 
 
 How to use
