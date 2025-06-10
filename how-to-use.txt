@@ -4,6 +4,8 @@ merged conflict 5
 merged conflict 4
 merged conflict 9
 
+for master after  branch1 stash
+
 
 How to use
 ----------
